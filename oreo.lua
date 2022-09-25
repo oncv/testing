@@ -11,7 +11,7 @@ local SilentAimSettings = {
     Enabled = false,
     
     ClassName = "oreo.fun",
-    ToggleKey = "RightAlt",
+    ToggleKey = "RightShift",
     
     TeamCheck = false,
     VisibleCheck = false, 
